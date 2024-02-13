@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amber Younus</h1>
 <h3 align="center">Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amberyounus&label=Profile%20views&color=0e75b6&style=flat" alt="amberyounus" /> </p>
+
 
 - 🌱 I’m currently learning **React**
 
